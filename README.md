@@ -1,4 +1,4 @@
-# Simpsons Character Classifier — CNN & Transfer Learning
+# Simpsons character classifier using CNNs & Transfer Learning
 
 **Lidia Velicia Ruiz · MSc in Artificial Intelligence**
 
@@ -6,7 +6,7 @@
 
 ## Overview
 
-Multi-class image classifier for 29 characters from *The Simpsons*, built as part of the Computer Vision module of the MSc in Artificial Intelligence. The project compares six model architectures — from a fully connected baseline to fine-tuned deep transfer learning models — achieving **97.08% test accuracy** with the best configuration.
+Multi-class image classification problem for 29 characters from *The Simpsons*. This project compares six model architectures, from a fully connected baseline to fine-tuned deep transfer learning models, achieving **97.08% test accuracy** with the best configuration.
 
 ---
 
